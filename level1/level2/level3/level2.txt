@@ -1,3 +1,0 @@
-Text File 2
-Mock file 2
-created in level2 folder
